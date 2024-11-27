@@ -109,6 +109,12 @@
     padding: 20px 0;
     text-align: center;
   }
+footer p{
+    color: #ff6600;
+  }
+  footer a{
+    color: #ff6600;
+  }
   
   footer .social-links {
     list-style: none;
