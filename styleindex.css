@@ -1,0 +1,163 @@
+
+
+/*Global style....*/
+body{
+    background-color: #2b3e65;
+    background-image: url(backgroung.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+/*links..*/
+a{
+    color: rgb(159, 30, 210);
+}
+a:hover{
+    color: rgb(107, 189, 121);
+}
+.btn{
+    background-color: black;
+    color: aqua;
+    text-decoration-line: none;
+}
+
+/*Resume.../
+
+
+/* Home.........*/
+header{
+    background-color:#bcaa96;
+    border-radius: 5px;
+    margin-bottom: -20px;
+    display: flex;
+    margin-top: 50px;
+    left: 800px;
+    right: 800px;
+   
+    
+}
+header h1::first-letter{
+    color: rgb(82, 41, 162);
+    
+}
+header h2::first-line{
+    color: rgb(67, 107, 108);
+}
+
+/*main......*/
+main{
+   /* background-color:#bcaa96;*/
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
+section{
+    padding: 40px;
+    width: 400px;
+    margin:0 auto;
+}
+/*Projects................*/
+
+
+/*Project links.............*/
+
+
+/* Work Experience.....*/
+
+/* Education.....*/
+
+footer p:first-of-type{
+    color: rgb(255, 0, 132);
+}
+footer a{
+    color: rgba(69, 85, 177, 0.768);
+}
+footer a:hover{
+    color: chartreuse;
+}
+/* Reset some default styles */
+.social-icons {
+    display: inline-block;
+}
+div{
+    margin:0 auto;
+}
+  .content-wrapper {
+    display: flex;            
+    justify-content: center;  
+    align-items: center;                 
+    text-align: center;       
+  }
+  .social-icons{
+    display: inline-block;
+  }
+  footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+footer ul li {
+    display: inline;
+}
+
+footer ul li a {
+    font-size: 40px;
+    color: white;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #E4405F; /* Instagram color on hover */
+}
+.downloadlink {
+    cursor: pointer;
+  }
+  /* Footer Styling */
+/*footer {
+    background-color: #bdbbbb;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    margin: 30px;
+    display: flexbox;
+    align-items:center;
+    width: 100%;
+    display: flex;
+    margin-top: 300px;
+    border-radius: 3px;
+    position: fixed;
+    bottom: 0;
+    left: 0;*/
+    
+}
+footer ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color:#bdbbbb;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+
+
+ 
+  
+  
+  
+
+
